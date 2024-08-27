@@ -1,0 +1,4 @@
+history:
+  persistence:
+    globalMaxQPS: 1200
+    namespaceMaxQPS: 300

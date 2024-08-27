@@ -1,0 +1,6 @@
+taskQueue.default:
+  rps: 100
+
+taskQueue:
+  activitiesQueue:
+    rps: 200
