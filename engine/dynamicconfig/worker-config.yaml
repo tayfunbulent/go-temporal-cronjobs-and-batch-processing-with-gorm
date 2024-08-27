@@ -1,0 +1,4 @@
+worker:
+  default:
+    maxConcurrentActivityExecutionSize: 1000
+    maxConcurrentWorkflowTaskExecutionSize: 100

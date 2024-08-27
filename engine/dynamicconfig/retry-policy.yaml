@@ -1,0 +1,5 @@
+retryPolicy:
+  default:
+    initialInterval: "10s"
+    backoffCoefficient: 2.0
+    maximumAttempts: 5
