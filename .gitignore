@@ -23,3 +23,9 @@ go.work.sum
 
 # env file
 .env
+
+# idea file
+.idea
+
+# mac file
+/.DS_Store
